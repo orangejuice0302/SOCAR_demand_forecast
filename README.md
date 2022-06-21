@@ -40,7 +40,7 @@
 
 ### 프로세스
 
-<img width="3194" alt="Untitled (1)" src="https://user-images.githubusercontent.com/96718939/174754099-bfd4fb78-56ba-45b7-b6ee-732271a9dcd3.png">
+<img width="3194" alt="Untitled (2)" src="https://user-images.githubusercontent.com/96718939/174756348-d2a50cc8-e733-438a-88f2-16c427bd2da9.png">
 
 
 
